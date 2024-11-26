@@ -1,0 +1,1 @@
+zip -r hw3.zip * -x ".DS_Store/*" -x "**__pycache__/*" -x "Optuna*" -x "plot_data.py" -x "grade_hw3.py"
